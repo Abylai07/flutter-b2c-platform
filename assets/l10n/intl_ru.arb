@@ -1,0 +1,222 @@
+{
+  "gmail": "example@mail.com",
+  "welcome": "Добро пожаловать",
+  "login": "Войти",
+  "yoko": "created by YOKO",
+  "incorrect_email": "Некорректная почта",
+  "main": "Главная",
+  "recommendations": "Рекомендации",
+  "addItem": "Добавление объявления",
+  "categories": "Категории",
+  "subCategories": "Подкатегории",
+  "helloUser": "Привет, {name}!",
+  "@helloUser": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "name": "Имя",
+  "surname": "Фамилия",
+  "birthday": "Дата рождения",
+  "signIn": "Вход",
+  "signInText": "Чтобы продолжить, вам необходимо войти в аккаунт или зарегистрироваться",
+  "signInRental": "Чтобы продолжить, вам необходимо зарегистрироваться как арендадатель",
+  "phoneNumber": "Номер телефона",
+  "password": "Пароль",
+  "forgotPass": "Забыли пароль?",
+  "next": "Продолжить",
+  "singUp": "Регистрация",
+  "signInSuccess": "Вы вошли в аккаунт!",
+  "singUpSuccess": "Регистрация прошла успешно!",
+  "haveAccount": "Уже есть аккаунт?",
+  "willSentCode": "На ваш номер телефона будет отправлен код подтверждения",
+  "sentAgain": "Отправить повторно",
+  "sentAgainSec": "Отправить повторно через {sec} сек",
+  "@sentAgainSec": {
+    "placeholders": {
+      "sec": {}
+    }
+  },
+  "needPassword": "Отлично!\nОсталось придумать надежный пароль",
+  "simplePerson": "Физическое лицо",
+  "tooPerson": "Юридическое лицо(ТОО)",
+  "ipPerson": "Юридическое лицо(ИП)",
+  "companyName": "Название компании",
+  "bin": "БИН/ИИН",
+  "bik": "БИК",
+  "iban": "IBAN счет",
+  "email": "Электронная почта",
+  "noAccount": "Нет аккаунта?",
+  "authorized": "Этот номер уже зарегистрирован",
+  "notFoundAccount": "Активная учетная запись с такими данными не найдена",
+  "passwordAgain": "Повторите пароль",
+  "passwordNotMatch": "Пароли не совпадают",
+  "notRightCode": "Не правильный код!",
+  "signOut": "Выйти из аккаунта",
+  "deleteAccount": "Удалить аккаунт",
+  "rent": "Арендовать",
+  "search": "Поиск",
+  "empty": "Пусто",
+  "landlordInfo": "Данные арендодателя",
+  "period": "Период аренды",
+  "address": "Адрес",
+  "description": "Описание",
+  "bookSuccess": "Ваш запрос отправлен в арендатору. Ожидайте ответа ближайшее время. Статус аренды вы можете видеть в профиле История заказов",
+  "priceTg": "{price} ₸/{period}",
+  "@priceTg": {
+    "placeholders": {
+      "price": {},
+      "period": {}
+    }
+  },
+  "price": "от {price} тг/{period}",
+  "@price": {
+    "placeholders": {
+      "price": {},
+      "period": {}
+    }
+  },
+  "orderHistory": "История заказов",
+  "personalData": "Личные данные",
+  "back": "Назад",
+  "book": "Забронировать",
+  "appSettings": "Настройки приложения",
+  "somethingWrong": "Что-то пошло не так",
+  "addAddress": "Добавить адресс",
+  "save": "Сохранить",
+  "sureAddress": "Вы уверены, что хотите сохранить адрес: {address}",
+  "@sureAddress": {
+    "placeholders": {
+      "address": {}
+    }
+  },
+  "itemName": "Название товара",
+  "itemNameHint": "Например, самокат jtx",
+  "mustFill": "Поле обязательно для заполнения",
+  "selectCategory": "Выберите подходящую категорию",
+  "searchCategory": "Поиск по категориям",
+  "notFountCategory": "Если вы не нашли категорию для вашего товара, Вы можете оставить заявку в Службе поддержки и мы рассмотрим ваше предложение для добавление новой категории",
+  "myCategory": "Подходящая категория",
+  "conditionItem": "Состояние товара",
+  "newStatus": "Новое",
+  "ideal": "Идеальное",
+  "good": "Хорошее",
+  "normal": "Удовлетворительное",
+  "rentCost": "Стоимость аренды",
+  "costAutomatic": "Цена будет автоматически высчитываться сразу после получения товара",
+  "addPeriod": "Добавить период и стоимость аренды",
+  "час": "На час",
+  "day": "На день",
+  "week": "На неделя",
+  "descriptionItem": "Описание товара",
+  "addressHint": "Улица, дом, номер кВа",
+  "removeSelect": "Удалить выбранное",
+  "cancel": "отмена",
+  "edit": "изменить",
+  "addPhotoItem": "Добавьте фотографии товара",
+  "changePhotoItem": "Измените фотографии товара",
+  "addPhoto": "Добавить фото",
+  "addPhotoDesc": "Выбирайте фотографии в хорошем качестве и сделанные при хорошем освещении, это поможет лучше рассмотреть товар",
+  "takePhoto": "Сделать фото",
+  "selectPhoto": "Выбрать из галереи",
+  "mainPhoto": "Главное фото",
+  "changePhoto": "Перетаскивайте фото, чтоб изменить порядок",
+  "cost": "Цена",
+  "fillCost": "Укажите стоимость периода",
+  "obtainAndReturn": "Выдача и возврат товара",
+  "howObtain": "Как получить товар",
+  "howReturn": "Как вернуть товар",
+  "addressItem": "Выберите адрес товара",
+  "fillAll": "Заполните все поля",
+  "success": "Успешно!",
+  "yes": "Да",
+  "deleteAccountDesc": "Вы уверены что хотите удалить аккаунт!",
+  "logoutDesc": "Вы уверены что хотите выйти!",
+  "changePassword": "Изменить пароль",
+  "newPhoto": "Изменить фотографию",
+  "termsUse": "Условия использования",
+  "addItemRule": "Правила размещения объявлений",
+  "support": "Служба поддержки",
+  "rateApp": "Оценить приложение",
+  "version": "Версия {ver}",
+  "@version": {
+    "placeholders": {
+      "ver": {}
+    }
+  },
+  "writeCurrentPassword": "Введите текущий пароль",
+  "writeNewPassword": "Введите новый пароль",
+  "newPassword": "Новый пароль",
+  "changeInfo": "Изменить данные",
+  "given": "Заказ выдан: ",
+  "viewed": "Просмотрено: ",
+  "recover": "Восстановить",
+  "archive": "В архив",
+  "orders": "История заказов",
+  "advertisement": "История объявлений",
+  "changeItem": "Изменить объявление",
+  "active": "Активные",
+  "inactive": "В архиве",
+  "selected": "Выбрано: {count}",
+  "@selected": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "chooseCity": "Выберите свой город",
+  "orderInfo": "Информация о заказе",
+  "select": "Выбрать",
+  "myOrders": "Мои заказы",
+  "orderAt": "От арендаторов",
+  "all": "Все",
+  "acceptedStatus": "Принятые",
+  "inProgressStatus": "В процессе",
+  "closedStatus": "Завершенные",
+  "newNew": "Новый",
+  "accept": "Принят",
+  "close": "Завершен",
+  "filter": "Фильтры",
+  "sentOtp": "Арендодателю отправлен смс код. Введите код для подтверждения запроса",
+  "totalAmount": "Общая сумма",
+  "rentInfo": "Данные арендодателя",
+  "pay": "Оплатить",
+  "item": "Товар: ",
+  "allCount": "Все ({count})",
+  "@allCount": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "newCount": "Новые ({count})",
+  "@newCount": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "accepted": "Принятые ({count})",
+  "@accepted": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "inProgress": "В процессе ({count})",
+  "@inProgress": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "closed": "Завершенные ({count})",
+  "@closed": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "orderNum": "Заказ №{num}",
+  "@orderNum": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "wrongCurrentPass": "Текущий пароль неверен",
+  "registerLandlord": "Вы должны зарегистрироваться в качестве арендодателя"
+}

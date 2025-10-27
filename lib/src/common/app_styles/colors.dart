@@ -1,0 +1,41 @@
+import 'package:flutter/material.dart';
+
+class AppColors {
+  static const Color main = Color(0xffFF4026);
+  static const Color mainBlue = Color(0xff091964);
+  static const Color lightBlue = Color(0xff8189AF);
+  static const Color transparent = Colors.transparent;
+  static const Color shimmer = Color(0xFFD2D0D0);
+  static const Color divider = Color(0xFFEDEDED);
+  static const Color white = Colors.white;
+  static const Color orange2 = Color(0xFFC66C2A);
+  static const Color red2 = Color(0xFFA33831);
+  static const Color yellow = Color(0xFFC6AD2A);
+  static const Color green = Color(0xff37C756);
+  static const Color green2 = Color(0xff1EA42C);
+  static const Color gray1 = Color(0xFFE5EBF3);
+  static const Color gray2 = Color(0xff6D7784);
+  static const Color gray3 = Color(0xFFF4F4F4);
+  static const Color gray4 = Color(0xFF828384);
+  static const Color grayBlue = Color(0xFFF0F1F5);
+  static const Color lightGrey = Color(0xffF8FAFD);
+  static const Color border = Color(0xFFD6D6D7);
+  static const Color buttonGrey = Color(0xFFEAEAEA);
+  static const Color gray = Color(0xFF7F7F7F);
+  static const Color lightGray = Color(0xffF8FAFD);
+  static const Color backgroundGray = Color(0xffD6D9DC);
+  static const Color borderColor = Color(0xffD9D9D9);
+  static const Color errorRedColor = Color(0xffE53D18);
+  static const Color redColor = Color(0xffE13C17);
+  static const Color textBlack = Color(0xff0C0C0C);
+  static const Color background = Color(0xffFAFAFA);
+  static const Color darkBlue = Color(0xff013E74);
+  static const Color black = Colors.black;
+  static const Color black54 = Colors.black54;
+  static const Color black12 = Colors.black12;
+  static const Color orange = Colors.orange;
+  static const Color blue = Colors.blue;
+  static const Color grayColor = Color(0xffEBF0F5);
+  static const Color lightPurple = Color(0xff858DA4);
+  static const Color lightRedColor = Color(0xFFFDE7E7);
+}

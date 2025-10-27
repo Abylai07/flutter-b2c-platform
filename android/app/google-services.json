@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63306253310",
+    "project_id": "b2c_platform-app",
+    "storage_bucket": "b2c_platform-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63306253310:android:e393d11b12c970fe22b6af",
+        "android_client_info": {
+          "package_name": "com.mycompany.vprokatkz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Bwek_BdsfAcbclNRzG45a-1MMx6gDvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

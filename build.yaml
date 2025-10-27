@@ -1,0 +1,47 @@
+targets:
+  $default:
+    builders:
+      freezed:
+        enabled: true
+        options:
+          # Generate copyWith method
+          copy_with: true
+          # Generate toJson/fromJson methods
+          to_json: true
+          from_json: true
+          # Generate union types
+          union: true
+          # Generate equality operator
+          equal: true
+          # Generate map methods for collections
+          map: true
+
+      json_serializable:
+        enabled: true
+        options:
+          # Generate explicitToJson
+          explicit_to_json: true
+          # Create factory methods
+          create_factory: true
+          # Field rename strategy
+          field_rename: snake_case
+          # Include if null
+          include_if_null: false
+          # Any map type
+          any_map: true
+          # Checked mode
+          checked: true
+          # Generate for getters
+          generate_to_json_function: true
+
+      auto_route_generator:
+        enabled: true
+        options:
+          # Replace in routing table
+          replace_in_routing_table: true
+
+# Global options
+global_options:
+  freezed:
+    runs_before:
+      - json_serializable
